@@ -1,0 +1,5643 @@
+[
+  {
+    "id": "wl-nk-1l-aq-rnd-218",
+    "sku": "WL-NK-1L-AQ-RND-218",
+    "name": "Pale Blue Crackle Agate Necklace",
+    "category": "necklace",
+    "materials": [
+      "Agate"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-aq-rnd-218-854bd6c96db0.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-ba-rnd-223",
+    "sku": "WL-NK-1L-BA-RND-223",
+    "name": "Blue Agate & Aquamarine Necklace",
+    "category": "necklace",
+    "materials": [
+      "Agate",
+      "Aquamarine"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-ba-rnd-223-74aa0cecc400.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-cbo-drp-225",
+    "sku": "WL-NK-1L-CBO-DRP-225",
+    "name": "Sage Multicolor Briolette Necklace",
+    "category": "necklace",
+    "materials": [],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-cbo-drp-225-3ee6f0da5574.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-cp-org-215",
+    "sku": "WL-NK-1L-CP-ORG-215",
+    "name": "Aquamarine & Olive Ombre Rondelle Necklace",
+    "category": "necklace",
+    "materials": [
+      "Aquamarine"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-cp-org-215-22c4cea381a7.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-cra-rnd-216",
+    "sku": "WL-NK-1L-CRA-RND-216",
+    "name": "Dark Green Mottled Stone Necklace",
+    "category": "necklace",
+    "materials": [],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-cra-rnd-216-ad1e1f1a9b24.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-fa-rnd-010",
+    "sku": "WL-NK-1L-FA-RND-010",
+    "name": "Fire Agate Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Agate"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-fa-rnd-010-7b50ff558238.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-1l-fa-rnd-010-4c09e7610a40.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-1l-fa-rnd-010-a854039c0607.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-1l-fa-rnd-010-1c3d6f42f239.webp",
+        "width": 1014,
+        "height": 1186,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-ga-pet-234",
+    "sku": "WL-NK-1L-GA-PET-234",
+    "name": "Green Aventurine & Jade Leaf Briolette & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Aventurine",
+      "Jade",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-ga-pet-234-9d7817e73288.webp",
+        "width": 1200,
+        "height": 1489,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-ga-pet-235",
+    "sku": "WL-NK-1L-GA-PET-235",
+    "name": "Green Aventurine & Jade Leaf Briolette & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Aventurine",
+      "Jade",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-ga-pet-235-3f2408978546.webp",
+        "width": 1200,
+        "height": 1489,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-gj-rnd-006",
+    "sku": "WL-NK-1L-GJ-RND-006",
+    "name": "Green Jasper Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Jasper"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-gj-rnd-006-843f84a25766.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-1l-gj-rnd-006-c5785b187ce2.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-1l-gj-rnd-006-d7a59de4fd38.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-1l-gj-rnd-006-279ee5f80e5b.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-iol-org-227",
+    "sku": "WL-NK-1L-IOL-ORG-227",
+    "name": "Iolite Nugget Necklace",
+    "category": "necklace",
+    "materials": [
+      "Iolite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-iol-org-227-ff6ffa9f1b37.webp",
+        "width": 1200,
+        "height": 670,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-kp-rnd-210",
+    "sku": "WL-NK-1L-KP-RND-210",
+    "name": "Mauve Korean Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-kp-rnd-210-cf0c2d57de86.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-ll-org-217",
+    "sku": "WL-NK-1L-LL-ORG-217",
+    "name": "Pearl & Gold Bead Statement Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-ll-org-217-3308328ad703.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-mon-drp-095",
+    "sku": "WL-NK-1L-MON-DRP-095",
+    "name": "Multi-Colour Moonstone Teardrop Fringe Necklace",
+    "category": "necklace",
+    "materials": [
+      "Moonstone"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-mon-drp-095-eaa80f947709.webp",
+        "width": 1124,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-1l-mon-drp-095-01a6896f7119.webp",
+        "width": 1200,
+        "height": 800,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-1l-mon-drp-095-130c3a6ecd47.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-mon-org-219",
+    "sku": "WL-NK-1L-MON-ORG-219",
+    "name": "Lapis Lazuli & Pearl Chip Necklace",
+    "category": "necklace",
+    "materials": [
+      "Lapis Lazuli",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-mon-org-219-d8851dee1ba3.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-mop-org-151",
+    "sku": "WL-NK-1L-MOP-ORG-151",
+    "name": "Mother-of-Pearl Chunk & Freshwater Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-mop-org-151-6a0345327f66.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-1l-mop-org-151-811ddc1e2ea2.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-1l-mop-org-151-ff942b3523ba.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-op-pet-157",
+    "sku": "WL-NK-1L-OP-PET-157",
+    "name": "Pink Opal & Garnet Fan-Collar Necklace",
+    "category": "necklace",
+    "materials": [
+      "Garnet",
+      "Opal"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-op-pet-157-df00aed6af59.webp",
+        "width": 1152,
+        "height": 896,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-pnk-rnd-224",
+    "sku": "WL-NK-1L-PNK-RND-224",
+    "name": "Pink Beaded Necklace",
+    "category": "necklace",
+    "materials": [],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-pnk-rnd-224-dbc6c72fa8c0.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-stq-pet-111",
+    "sku": "WL-NK-1L-STQ-PET-111",
+    "name": "Strawberry Quartz Petal-Drop Leaf Necklace",
+    "category": "necklace",
+    "materials": [
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-stq-pet-111-4d9a0855101a.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-sug-rnd-209",
+    "sku": "WL-NK-1L-SUG-RND-209",
+    "name": "Sugilite Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Sugilite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-sug-rnd-209-20a388192359.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-tu-drp-096",
+    "sku": "WL-NK-1L-TU-DRP-096",
+    "name": "Multi-Colour Tourmaline Teardrop Fringe Necklace",
+    "category": "necklace",
+    "materials": [
+      "Tourmaline"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-tu-drp-096-8b06c66eee66.webp",
+        "width": 1024,
+        "height": 1024,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-1l-tu-drp-096-ecc0b6852bb1.webp",
+        "width": 648,
+        "height": 936,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-1l-tu-drp-096-0237f55deaef.webp",
+        "width": 644,
+        "height": 922,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-tu-rnd-220",
+    "sku": "WL-NK-1L-TU-RND-220",
+    "name": "Multi-Tone Tourmaline Rondelle Necklace",
+    "category": "necklace",
+    "materials": [
+      "Tourmaline"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-tu-rnd-220-e5db0615af3a.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-una-rnd-221",
+    "sku": "WL-NK-1L-UNA-RND-221",
+    "name": "Unakite Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Unakite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-una-rnd-221-8a3d0004e9c5.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-1l-unk-rnd-214",
+    "sku": "WL-NK-1L-UNK-RND-214",
+    "name": "Ivory Stone Chip & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-1l-unk-rnd-214-bb4ea138cc78.webp",
+        "width": 1200,
+        "height": 675,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-001-agt",
+    "sku": "WL-NK-BD-001-AGT",
+    "name": "Banded Agate Oval Statement Necklace",
+    "category": "necklace",
+    "materials": [
+      "Agate"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-001-agt-42dcb4e12866.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-001-agt-a05eddee1f2e.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-001-agt-54c0e640a744.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-001-agt-4f3c2e528a68.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-001-agt-2380930c86e3.webp",
+        "width": 1200,
+        "height": 670,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-002-agt",
+    "sku": "WL-NK-BD-002-AGT",
+    "name": "Deep Blue Crackle Agate Necklace",
+    "category": "necklace",
+    "materials": [
+      "Agate"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-002-agt-5764623432eb.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-005-agt",
+    "sku": "WL-NK-BD-005-AGT",
+    "name": "Multi-Colour Agate Necklace",
+    "category": "necklace",
+    "materials": [
+      "Agate"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-005-agt-9ef7face13a1.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-005-agt-5aba6eb20fab.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-005-agt-2644f7ed2bc3.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-005-agt-9fc638cc4433.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-005-agt-92c1b20df43b.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-005-agt-03fc26d98adf.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-005-agt-5fecf67f4d2f.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-005-agt-1cf2d22789fa.webp",
+        "width": 1183,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-005-agt-7fe9150e169f.webp",
+        "width": 1132,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-006-agt",
+    "sku": "WL-NK-BD-006-AGT",
+    "name": "Natural Botswana Agate Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Agate"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-006-agt-e49470b566c5.webp",
+        "width": 848,
+        "height": 1264,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-006-agt-f61ee0be6939.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-006-agt-1353cc6f76ca.webp",
+        "width": 1000,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-006-agt-9a03ae810f77.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-006-agt-55d6ecfca11c.webp",
+        "width": 843,
+        "height": 1264,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-006-agt-f05650e20d13.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-008-agt",
+    "sku": "WL-NK-BD-008-AGT",
+    "name": "Natural White Agate Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Agate"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-008-agt-c78307b574bb.webp",
+        "width": 768,
+        "height": 1364,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-008-agt-7ab3f910a468.webp",
+        "width": 1024,
+        "height": 1026,
+        "isRender": true
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-009-amz",
+    "sku": "WL-NK-BD-009-AMZ",
+    "name": "Amazonite Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Amazonite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-009-amz-a20882ed4c99.webp",
+        "width": 842,
+        "height": 1264,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-009-amz-2c6f28078a90.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-009-amz-bd7d486f76b5.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-009-amz-64d1cfdcf58b.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-009-amz-6a933abd6ae9.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-009-amz-318264405973.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-009-amz-cd579771e199.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-010-amz",
+    "sku": "WL-NK-BD-010-AMZ",
+    "name": "Multi-Colour Amazonite Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Amazonite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-010-amz-ea0f4c3dcea2.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-010-amz-7fc693927779.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-010-amz-7012e8acf790.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-010-amz-6f89e8d577a7.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-010-amz-1f760c165709.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-010-amz-c3e9cf6c1874.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-010-amz-641f44cd326d.webp",
+        "width": 1058,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-011-amt",
+    "sku": "WL-NK-BD-011-AMT",
+    "name": "Amethyst & Clear Quartz Faceted Rondelle Necklace",
+    "category": "necklace",
+    "materials": [
+      "Amethyst",
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-011-amt-62d9b6c212a6.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-012-amt",
+    "sku": "WL-NK-BD-012-AMT",
+    "name": "Natural Lavender Amethyst Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Amethyst"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-012-amt-6b57d654dbf2.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-012-amt-85c846b77ed0.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-012-amt-5a8ef9d5751a.webp",
+        "width": 921,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-012-amt-d11fad47a761.webp",
+        "width": 921,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-012-amt-8f33612be7d0.webp",
+        "width": 921,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-013-apt",
+    "sku": "WL-NK-BD-013-APT",
+    "name": "Natural Apatite Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Apatite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-013-apt-d576bef62ae1.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-013-apt-072e012c8f0a.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-014-avt",
+    "sku": "WL-NK-BD-014-AVT",
+    "name": "Green Aventurine, Strawberry Quartz & Pearl Single-Strand Necklace",
+    "category": "necklace",
+    "materials": [
+      "Aventurine",
+      "Pearl",
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-014-avt-814271f5da69.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-014-avt-7442b7569494.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-015-onx-v1",
+    "sku": "WL-NK-BD-015-ONX-V1",
+    "name": "Natural Black Onyx Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Onyx"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-015-onx-v1-da7e5c8e2cb9.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-015-onx-v1-38fb688d47e1.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-015-onx-v2",
+    "sku": "WL-NK-BD-015-ONX-V2",
+    "name": "Black Onyx Beaded Disc & Stardust Necklace",
+    "category": "necklace",
+    "materials": [
+      "Onyx"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-015-onx-v2-2bd6a177b746.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-015-onx-v2-8eb77d5a3c0d.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-016-chr",
+    "sku": "WL-NK-BD-016-CHR",
+    "name": "Natural Purple Charoite Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Charoite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-016-chr-571b61a45a85.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-017-cit",
+    "sku": "WL-NK-BD-017-CIT",
+    "name": "Citrine & Champagne Ombre Rondelle Necklace (Faceted)",
+    "category": "necklace",
+    "materials": [
+      "Citrine"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-017-cit-05c3dbca67c8.webp",
+        "width": 1124,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-018-cit",
+    "sku": "WL-NK-BD-018-CIT",
+    "name": "Natural Citrine Square Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Citrine"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-018-cit-2f6141b5e082.webp",
+        "width": 1080,
+        "height": 1350,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-018-cit-beb591fa62ec.webp",
+        "width": 378,
+        "height": 680,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-019-dum",
+    "sku": "WL-NK-BD-019-DUM",
+    "name": "Dumortierite Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Dumortierite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-019-dum-542a6ddfd56f.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-020-gar",
+    "sku": "WL-NK-BD-020-GAR",
+    "name": "Natural Almandine Garnet Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Garnet"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-020-gar-f9f618f298db.webp",
+        "width": 944,
+        "height": 1124,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-020-gar-e025e7d839ec.webp",
+        "width": 1080,
+        "height": 1350,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-021-how",
+    "sku": "WL-NK-BD-021-HOW",
+    "name": "Natural Turquoise Howlite & Crystal Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Howlite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-021-how-59e0eaf79eaf.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-021-how-589c0c4a8b0f.webp",
+        "width": 1200,
+        "height": 675,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-021-how-0904a4660b7f.webp",
+        "width": 843,
+        "height": 1264,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-021-how-b4fc31ea45f1.webp",
+        "width": 768,
+        "height": 1344,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-021-how-3ab9518241f1.webp",
+        "width": 768,
+        "height": 1344,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-021-how-05ec3e898985.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-021-how-1f28fdc5bf6a.webp",
+        "width": 1000,
+        "height": 1500,
+        "isRender": true
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-022-how",
+    "sku": "WL-NK-BD-022-HOW",
+    "name": "Natural White Howlite Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Howlite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-022-how-9914a6fecd61.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-022-how-3984be583c1e.webp",
+        "width": 1000,
+        "height": 1500,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-022-how-334a29fb51ad.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": true
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-023-jad-v1",
+    "sku": "WL-NK-BD-023-JAD-V1",
+    "name": "Natural Dark Green Jade Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Jade"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-023-jad-v1-5ce1e25de86b.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-023-jad-v1-fa3e2498726b.webp",
+        "width": 768,
+        "height": 1368,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-023-jad-v3",
+    "sku": "WL-NK-BD-023-JAD-V3",
+    "name": "Lemon Yellow Jade Nugget & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Jade",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-023-jad-v3-f3ffd990ef6a.webp",
+        "width": 1200,
+        "height": 670,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-023-jad-v3-e9610b5e91a4.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-023-jad-v3-a5d495a7425f.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-023-jad-v3-c5ce9e2f490e.webp",
+        "width": 1002,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-023-jad-v3-37508c4a078c.webp",
+        "width": 1200,
+        "height": 670,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-023-jad-v3-a7dcf29f35d3.webp",
+        "width": 1200,
+        "height": 670,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-023-jad-v3-9a49b8bf75d4.webp",
+        "width": 1123,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-023-jad-v3-1fe42a4f4467.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-024-jas",
+    "sku": "WL-NK-BD-024-JAS",
+    "name": "Dark Green Jasper Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Jasper"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-024-jas-d157d9b9a0a9.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-024-jas-cdaef76f70ad.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-024-jas-a7ecc53fd0fc.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-024-jas-e812bee27bfd.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-025-jas",
+    "sku": "WL-NK-BD-025-JAS",
+    "name": "Multi Jasper Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Jasper"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-025-jas-11a0babc6045.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-025-jas-49c0723d4417.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-026-jas",
+    "sku": "WL-NK-BD-026-JAS",
+    "name": "Natural Picture Jasper Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Jasper"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-026-jas-b1e47cd2db81.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-026-jas-9f64e14be0ee.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-027-jas",
+    "sku": "WL-NK-BD-027-JAS",
+    "name": "Natural White Jasper Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Jasper"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-027-jas-cc19af2fa677.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-027-jas-2df5e3096997.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-027-jas-c69d924e0fb5.webp",
+        "width": 844,
+        "height": 1264,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-027-jas-d7179a967f12.webp",
+        "width": 844,
+        "height": 1264,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-027-jas-afa8e8823757.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": true
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-028-lab",
+    "sku": "WL-NK-BD-028-LAB",
+    "name": "Natural Labradorite Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Labradorite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-028-lab-e075d9cb1d2b.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-028-lab-4775cfb39f19.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-028-lab-daee8f569d31.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-028-lab-547da19cbcfe.webp",
+        "width": 894,
+        "height": 1076,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-028-lab-e31c130640f1.webp",
+        "width": 978,
+        "height": 1376,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-029-lrv",
+    "sku": "WL-NK-BD-029-LRV",
+    "name": "Natural Larvikite Beaded Necklace",
+    "category": "necklace",
+    "materials": [],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-029-lrv-0a2e195b81ad.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-029-lrv-add1f7eed158.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-029-lrv-665f44fc098f.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-029-lrv-9606eb25dab8.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-030-lep",
+    "sku": "WL-NK-BD-030-LEP",
+    "name": "Mauve Lepidolite Beaded Necklace",
+    "category": "necklace",
+    "materials": [],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-030-lep-926f3c19865c.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-031-met",
+    "sku": "WL-NK-BD-031-MET",
+    "name": "Silver Metallic Tile Choker Necklace",
+    "category": "necklace",
+    "materials": [],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-031-met-1893682f8fa5.webp",
+        "width": 1200,
+        "height": 655,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-031-met-3c5122f25437.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-033-mns",
+    "sku": "WL-NK-BD-033-MNS",
+    "name": "White Moonstone Faceted Rondelle & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Moonstone",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-033-mns-52b383b2d059.webp",
+        "width": 1124,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-034-mnt",
+    "sku": "WL-NK-BD-034-MNT",
+    "name": "Mint Green Beaded Necklace",
+    "category": "necklace",
+    "materials": [],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-034-mnt-28c17f911439.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-034-mnt-6a287fab01a3.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-034-mnt-e1dc1c9b0de4.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-036-prl-v1",
+    "sku": "WL-NK-BD-036-PRL-V1",
+    "name": "Blue-Grey Ombre Dyed Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-036-prl-v1-f7aac05e0132.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-036-prl-v3",
+    "sku": "WL-NK-BD-036-PRL-V3",
+    "name": "Grey Ombre Dyed Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-036-prl-v3-8bac5cb06d02.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-036-prl-v5",
+    "sku": "WL-NK-BD-036-PRL-V5",
+    "name": "Mauve & Cream Dyed Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-036-prl-v5-3cab4318665a.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-036-prl-v6",
+    "sku": "WL-NK-BD-036-PRL-V6",
+    "name": "Mauve & Gold Dyed Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-036-prl-v6-e41345387d9f.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-036-prl-v7",
+    "sku": "WL-NK-BD-036-PRL-V7",
+    "name": "Pink & Olive Dyed Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-036-prl-v7-c09ed7849b15.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-036-prl-v8",
+    "sku": "WL-NK-BD-036-PRL-V8",
+    "name": "White & Grey Dyed Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-036-prl-v8-e09c2d41d538.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-038-prl",
+    "sku": "WL-NK-BD-038-PRL",
+    "name": "Cultured Pearl & Gold Sphere Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-038-prl-5b7ea5ec22c0.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-040-prl",
+    "sku": "WL-NK-BD-040-PRL",
+    "name": "Graduated Peach Freshwater Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-040-prl-40cba185af7d.webp",
+        "width": 1124,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-041-prl-v1",
+    "sku": "WL-NK-BD-041-PRL-V1",
+    "name": "Champagne Gold Dyed Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-041-prl-v1-7955b34ac32e.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-041-prl-v10",
+    "sku": "WL-NK-BD-041-PRL-V10",
+    "name": "Rose Gold Shell Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl",
+      "Shell"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-041-prl-v10-968556b26566.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-041-prl-v11",
+    "sku": "WL-NK-BD-041-PRL-V11",
+    "name": "Rose Mauve Dyed Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-041-prl-v11-8695a4b4d8c9.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-041-prl-v12",
+    "sku": "WL-NK-BD-041-PRL-V12",
+    "name": "Silver Dyed Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-041-prl-v12-87d79b61bd3e.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-041-prl-v2",
+    "sku": "WL-NK-BD-041-PRL-V2",
+    "name": "Dusty Mauve A Dyed Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-041-prl-v2-d4a22ca9eaef.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-041-prl-v3",
+    "sku": "WL-NK-BD-041-PRL-V3",
+    "name": "Dusty Mauve B Dyed Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-041-prl-v3-2ac691eced3d.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-041-prl-v4",
+    "sku": "WL-NK-BD-041-PRL-V4",
+    "name": "Lavender Gradual Dyed Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-041-prl-v4-c1433ab87101.webp",
+        "width": 844,
+        "height": 1264,
+        "isRender": true
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-041-prl-v5",
+    "sku": "WL-NK-BD-041-PRL-V5",
+    "name": "Olive Dyed Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-041-prl-v5-957bc65df352.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-041-prl-v6",
+    "sku": "WL-NK-BD-041-PRL-V6",
+    "name": "Pale Blue Dyed Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-041-prl-v6-b999dc9998c3.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-041-prl-v7",
+    "sku": "WL-NK-BD-041-PRL-V7",
+    "name": "Pale Grey Dyed Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-041-prl-v7-3696447c0d9b.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-041-prl-v8",
+    "sku": "WL-NK-BD-041-PRL-V8",
+    "name": "Peach Dyed Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-041-prl-v8-2ce1c185fb52.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-041-prl-v9",
+    "sku": "WL-NK-BD-041-PRL-V9",
+    "name": "Pink Gradual Dyed Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-041-prl-v9-bd76aacfbbb2.webp",
+        "width": 896,
+        "height": 1194,
+        "isRender": true
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-044-qtz",
+    "sku": "WL-NK-BD-044-QTZ",
+    "name": "Smoky Quartz Necklace",
+    "category": "necklace",
+    "materials": [
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-044-qtz-c2035ad2156f.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-046-rqz",
+    "sku": "WL-NK-BD-046-RQZ",
+    "name": "Natural Rose Quartz Large Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-046-rqz-b931c6d2ab2b.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-047-rut",
+    "sku": "WL-NK-BD-047-RUT",
+    "name": "Black Rutilated Quartz & Labradorite Rondelle Necklace",
+    "category": "necklace",
+    "materials": [
+      "Labradorite",
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-047-rut-2a67183f60e5.webp",
+        "width": 1124,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-048-rut",
+    "sku": "WL-NK-BD-048-RUT",
+    "name": "Natural Black Tourmalinated Quartz Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-048-rut-9dfac545cf06.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-048-rut-9737f45363cd.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-048-rut-e599f4dae910.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-049-sod",
+    "sku": "WL-NK-BD-049-SOD",
+    "name": "Natural Sodalite Beaded Necklace",
+    "category": "necklace",
+    "materials": [],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-049-sod-544948961ed9.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-049-sod-bf2633c484f2.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-049-sod-6ed6d6c1f7fb.webp",
+        "width": 927,
+        "height": 1152,
+        "isRender": true
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-050-sun",
+    "sku": "WL-NK-BD-050-SUN",
+    "name": "Natural Sunstone Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Sunstone"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-050-sun-dde4807e9e38.webp",
+        "width": 896,
+        "height": 1195,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-051-tge",
+    "sku": "WL-NK-BD-051-TGE",
+    "name": "Natural Green Tiger_s Eye Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Tiger's Eye"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-051-tge-ba043cbf0a18.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-052-trm",
+    "sku": "WL-NK-BD-052-TRM",
+    "name": "Natural Watermelon Tourmaline Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Tourmaline"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-052-trm-da2def9b5e17.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-052-trm-e04ecce24cb7.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-053-trm",
+    "sku": "WL-NK-BD-053-TRM",
+    "name": "Single Line Tourmaline Necklace",
+    "category": "necklace",
+    "materials": [
+      "Tourmaline"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-053-trm-dfbae4d85227.webp",
+        "width": 1000,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-053-trm-1a53b04159ee.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-bd-053-trm-db96a7f82819.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-054-trq",
+    "sku": "WL-NK-BD-054-TRQ",
+    "name": "African Turquoise Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Turquoise"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-054-trq-eb53aecb2020.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-055-una",
+    "sku": "WL-NK-BD-055-UNA",
+    "name": "Unakite Beaded Necklace",
+    "category": "necklace",
+    "materials": [
+      "Unakite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-055-una-c2dc4d887d2d.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-057-apt-v1",
+    "sku": "WL-NK-BD-057-APT-V1",
+    "name": "Blue-Teal Apatite Rondelle Necklace",
+    "category": "necklace",
+    "materials": [
+      "Apatite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-057-apt-v1-b8b5c8ea7160.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-057-aqm-v2",
+    "sku": "WL-NK-BD-057-AQM-V2",
+    "name": "Aquamarine & Olive Accent Rondelle Necklace",
+    "category": "necklace",
+    "materials": [
+      "Aquamarine"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-057-aqm-v2-08dcef56df92.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-bd-057-cit-v4",
+    "sku": "WL-NK-BD-057-CIT-V4",
+    "name": "Citrine & Champagne Ombre Rondelle Necklace",
+    "category": "necklace",
+    "materials": [
+      "Citrine"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-bd-057-cit-v4-71a3eeda09bc.webp",
+        "width": 1124,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-105-agt",
+    "sku": "WL-NK-CH-105-AGT",
+    "name": "Green Agate Rondelle & Citrine Chip Necklace",
+    "category": "necklace",
+    "materials": [
+      "Agate",
+      "Citrine"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-105-agt-1c77f1315d87.webp",
+        "width": 1024,
+        "height": 1024,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-105-agt-20661405eb7d.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-105-agt-fcb0039a8061.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-105-agt-4433fc870995.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-106-agt",
+    "sku": "WL-NK-CH-106-AGT",
+    "name": "White Agate & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Agate",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-106-agt-5ee347f59444.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-107-amt",
+    "sku": "WL-NK-CH-107-AMT",
+    "name": "Prasiolite Chip & Mint-Green Pearl Strand Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl",
+      "Prasiolite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-107-amt-1777067fdbad.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-107-amt-39f792f929fa.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-108-amt",
+    "sku": "WL-NK-CH-108-AMT",
+    "name": "Raw Green Amethyst & Teal Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Amethyst",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-108-amt-9ed80edfc825.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-108-amt-d5f8584a4332.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-108-amt-6ae8652f900d.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-109-apt",
+    "sku": "WL-NK-CH-109-APT",
+    "name": "Multi-Strand Apatite Chip & Pearl Necklace with Silver Cord & Tassel",
+    "category": "necklace",
+    "materials": [
+      "Apatite",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-109-apt-1e72c77207e3.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-111-cit",
+    "sku": "WL-NK-CH-111-CIT",
+    "name": "Multi-Tone Citrine & Smoky Quartz Chip Necklace",
+    "category": "necklace",
+    "materials": [
+      "Citrine",
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-111-cit-f2a75a3420fe.webp",
+        "width": 896,
+        "height": 1195,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-114-emr",
+    "sku": "WL-NK-CH-114-EMR",
+    "name": "Natural Emerald Chip Necklace",
+    "category": "necklace",
+    "materials": [],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-114-emr-d564c1efebe6.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-114-emr-5ced5af58eb7.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-115-gar",
+    "sku": "WL-NK-CH-115-GAR",
+    "name": "Garnet Uncut Waterfall Necklace",
+    "category": "necklace",
+    "materials": [
+      "Garnet"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-115-gar-3a91a60a7d6b.webp",
+        "width": 1200,
+        "height": 1489,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-117-gar",
+    "sku": "WL-NK-CH-117-GAR",
+    "name": "Natural Rhodolite Garnet Chip Necklace",
+    "category": "necklace",
+    "materials": [
+      "Garnet"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-117-gar-7e94a4902bed.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-117-gar-1c3adbfd4894.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-117-gar-94dd11839fce.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-117-gar-8aea9b275fbf.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-117-gar-edc0adb73ded.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-117-gar-7d207964b67a.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-117-gar-fc31a98cec9f.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-120-rqz",
+    "sku": "WL-NK-CH-120-RQZ",
+    "name": "Rose Quartz with freshwater Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl",
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-120-rqz-6094e558d89c.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-120-rqz-d3d4d638daf4.webp",
+        "width": 1200,
+        "height": 799,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-121-sod",
+    "sku": "WL-NK-CH-121-SOD",
+    "name": "Natural Sodalite Chip Necklace",
+    "category": "necklace",
+    "materials": [],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-121-sod-371a6347b53a.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-121-sod-b105a0ad41fb.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-121-sod-eb2757146b1c.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-121-sod-6c7491ec68ce.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-121-sod-d90c194d34d6.webp",
+        "width": 1024,
+        "height": 1026,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-121-sod-31d2ad10192d.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-121-sod-d0528f662b02.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": true
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-122-cor-v1",
+    "sku": "WL-NK-CH-122-COR-V1",
+    "name": "red Coral Chip & Baroque Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Coral",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-122-cor-v1-86bd1b1359f5.webp",
+        "width": 1200,
+        "height": 1489,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-122-cor-v2",
+    "sku": "WL-NK-CH-122-COR-V2",
+    "name": "Pink Coral and Freshwater Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Coral",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-122-cor-v2-0741446d8ed8.webp",
+        "width": 1200,
+        "height": 1489,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-123-amt-v1",
+    "sku": "WL-NK-CH-123-AMT-V1",
+    "name": "Amethyst Chip & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Amethyst",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-123-amt-v1-e01d05bed185.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-123-avt-v2",
+    "sku": "WL-NK-CH-123-AVT-V2",
+    "name": "Green Aventurine Chip & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Aventurine",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-123-avt-v2-8827ceb5d9fa.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-123-lap-v3",
+    "sku": "WL-NK-CH-123-LAP-V3",
+    "name": "Lapis Lazuli Chip & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Lapis Lazuli",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-123-lap-v3-25bb9fb22b46.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-123-mns-v4",
+    "sku": "WL-NK-CH-123-MNS-V4",
+    "name": "Moonstone Chip Pearl & Pavé Necklace",
+    "category": "necklace",
+    "materials": [
+      "Moonstone",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-123-mns-v4-cabc0eb3a199.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-123-mns-v4-81fcc6e5c2c2.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-123-prl-v5",
+    "sku": "WL-NK-CH-123-PRL-V5",
+    "name": "Ivory Mother-of-Pearl Chip & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-123-prl-v5-bb4ea138cc78.webp",
+        "width": 1200,
+        "height": 675,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-123-rqz-v6",
+    "sku": "WL-NK-CH-123-RQZ-V6",
+    "name": "Rose Quartz Chip & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl",
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-123-rqz-v6-31af50f911f7.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-123-rqz-v6-744415e6e959.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ch-123-sod-v7",
+    "sku": "WL-NK-CH-123-SOD-V7",
+    "name": "Natural Sodalite Chip & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ch-123-sod-v7-d61889f85b2c.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ch-123-sod-v7-e8c860cd8fe4.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dc-085-amz",
+    "sku": "WL-NK-DC-085-AMZ",
+    "name": "Amazonite Faceted Heishi Disc Strand Necklace with Dark Teal Accents & Silver Chain",
+    "category": "necklace",
+    "materials": [
+      "Amazonite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dc-085-amz-23ad178b74ab.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-085-amz-7f7e8de131f0.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dc-086-amt",
+    "sku": "WL-NK-DC-086-AMT",
+    "name": "Prasiolite Faceted Heishi Disc Strand Necklace with Silver Chain",
+    "category": "necklace",
+    "materials": [
+      "Prasiolite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dc-086-amt-20fa939d9d35.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-086-amt-a6240ed45941.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dc-088-cit",
+    "sku": "WL-NK-DC-088-CIT",
+    "name": "Citrine Faceted Heishi Disc Strand Necklace with Silver Chain",
+    "category": "necklace",
+    "materials": [
+      "Citrine"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dc-088-cit-1f330fb3d1f5.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-088-cit-dfc017e9d1d7.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dc-089-emr",
+    "sku": "WL-NK-DC-089-EMR",
+    "name": "Emerald Heishi Disc Strand Necklace",
+    "category": "necklace",
+    "materials": [],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dc-089-emr-573a1af1e7c8.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-089-emr-2e3d7d86d345.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dc-090-iol",
+    "sku": "WL-NK-DC-090-IOL",
+    "name": "Blue-Grey Iolite Heishi Disc & Garnet Spacer Strand Necklace with Silver Chain",
+    "category": "necklace",
+    "materials": [
+      "Garnet",
+      "Iolite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dc-090-iol-1b2274ebba82.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-090-iol-c7e39b6a54f9.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-090-iol-5131e8a9c54a.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-090-iol-3b6847e46737.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dc-091-lab",
+    "sku": "WL-NK-DC-091-LAB",
+    "name": "Labradorite Faceted Heishi Disc & Pavé Silver Bead Strand Necklace with Silver Chain",
+    "category": "necklace",
+    "materials": [
+      "Labradorite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dc-091-lab-fd80351f21ec.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-091-lab-27656a2ec6fa.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dc-092-lap",
+    "sku": "WL-NK-DC-092-LAP",
+    "name": "Natural Lapis Lazuli Disc Necklace",
+    "category": "necklace",
+    "materials": [
+      "Lapis Lazuli"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dc-092-lap-3c5bf09c7f39.webp",
+        "width": 896,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-092-lap-48ee7e9605e1.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-092-lap-e6e70ba451f3.webp",
+        "width": 1000,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-092-lap-e8e665bf5c7a.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-092-lap-4799090475d2.webp",
+        "width": 1000,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-092-lap-910692d45c5b.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-092-lap-11470c7fcae8.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-092-lap-602e15cd0839.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dc-093-mix",
+    "sku": "WL-NK-DC-093-MIX",
+    "name": "Moonstone & Labradorite Heishi Disc & Pearl Strand Necklace with Silver Chain",
+    "category": "necklace",
+    "materials": [
+      "Labradorite",
+      "Moonstone",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dc-093-mix-d99a0c9f4917.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-093-mix-73f399dd8f44.webp",
+        "width": 939,
+        "height": 1136,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-093-mix-f9090a2523a3.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dc-094-mix",
+    "sku": "WL-NK-DC-094-MIX",
+    "name": "Multi-Gemstone Heishi Disc Strand Necklace (Labradorite, Amethyst, Lemon Quartz & Smoky)",
+    "category": "necklace",
+    "materials": [
+      "Amethyst",
+      "Labradorite",
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dc-094-mix-ad4db7b635d2.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-094-mix-500eba65d918.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dc-095-mix",
+    "sku": "WL-NK-DC-095-MIX",
+    "name": "Natural Yellow Topaz & Amethyst Necklace",
+    "category": "necklace",
+    "materials": [
+      "Amethyst",
+      "Topaz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dc-095-mix-5d6d24dbe1d3.webp",
+        "width": 1002,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-095-mix-b1ab7a3f9d99.webp",
+        "width": 1002,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dc-097-mns",
+    "sku": "WL-NK-DC-097-MNS",
+    "name": "White Moonstone Heishi Tile & Pearl Strand Necklace with Silver Chain",
+    "category": "necklace",
+    "materials": [
+      "Moonstone",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dc-097-mns-efa85c81dd05.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dc-098-mal",
+    "sku": "WL-NK-DC-098-MAL",
+    "name": "Natural Malachite Disc Necklace",
+    "category": "necklace",
+    "materials": [
+      "Malachite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dc-098-mal-d0d7384a1ca6.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-098-mal-0732a23d41ee.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-098-mal-7a8c6a69ff7d.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-098-mal-e3890ea95a11.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-098-mal-a50044142a3f.webp",
+        "width": 896,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-098-mal-7ab9c813dfa6.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-098-mal-5d7fb5951ddb.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-098-mal-ad00a21dddc7.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dc-099-tnz",
+    "sku": "WL-NK-DC-099-TNZ",
+    "name": "Tanzanite & Garnet-Spacer Heishi Disc Strand Necklace",
+    "category": "necklace",
+    "materials": [
+      "Garnet",
+      "Tanzanite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dc-099-tnz-cc61fdb2feca.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-099-tnz-d1664f8a8a2a.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dc-100-qtz",
+    "sku": "WL-NK-DC-100-QTZ",
+    "name": "Coin Beer Quartz Necklace",
+    "category": "necklace",
+    "materials": [
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dc-100-qtz-4cc7b0f697e9.webp",
+        "width": 998,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-100-qtz-753f7817707d.webp",
+        "width": 1200,
+        "height": 804,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dc-101-qtz",
+    "sku": "WL-NK-DC-101-QTZ",
+    "name": "White Quartz Disc & Stardust Bead Necklace",
+    "category": "necklace",
+    "materials": [
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dc-101-qtz-a259836135ad.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-101-qtz-f5d9a5efeb17.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dc-102-rqz",
+    "sku": "WL-NK-DC-102-RQZ",
+    "name": "Rose Quartz Heishi Disc & Amethyst- Accent Strand Necklace",
+    "category": "necklace",
+    "materials": [
+      "Amethyst",
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dc-102-rqz-15d133ddbb4e.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-102-rqz-08ed1a05be4b.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-102-rqz-ad94a246739c.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dc-104-trm",
+    "sku": "WL-NK-DC-104-TRM",
+    "name": "Double-Strand Pink Tourmaline Heishi Necklace with Cord & Tassel",
+    "category": "necklace",
+    "materials": [
+      "Tourmaline"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dc-104-trm-97b46697862c.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dc-194-qtz",
+    "sku": "WL-NK-DC-194-QTZ",
+    "name": "Golden Quartz Coin Cluster Necklace",
+    "category": "necklace",
+    "materials": [
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dc-194-qtz-8d90caaf3107.webp",
+        "width": 998,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-194-qtz-d66e2028764a.webp",
+        "width": 1086,
+        "height": 1448,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dc-194-qtz-934474882ea3.webp",
+        "width": 1200,
+        "height": 800,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-058-agt",
+    "sku": "WL-NK-DR-058-AGT",
+    "name": "Natural Lace Agate Drop Necklace",
+    "category": "necklace",
+    "materials": [
+      "Agate"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-058-agt-80ff2e6acd5c.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-058-agt-75e37c9d21e8.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-058-agt-8afc1fe67883.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-058-agt-2d582ebe2d8f.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-059-amz",
+    "sku": "WL-NK-DR-059-AMZ",
+    "name": "Natural Amazonite Briolette & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Amazonite",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-059-amz-2f043d95fb8f.webp",
+        "width": 1000,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-059-amz-ca18e2d819f4.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-059-amz-d7b0415fd062.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-059-amz-9f8444975c5d.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-059-amz-e9911e2cd472.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-060-amz",
+    "sku": "WL-NK-DR-060-AMZ",
+    "name": "Teal Amazonite Faceted Teardrop Necklace",
+    "category": "necklace",
+    "materials": [
+      "Amazonite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-060-amz-9e4de0c432e9.webp",
+        "width": 1200,
+        "height": 1489,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-061-amt",
+    "sku": "WL-NK-DR-061-AMT",
+    "name": "Natural Amethyst Briolette & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Amethyst",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-061-amt-f6f79d8db2b2.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-062-amt",
+    "sku": "WL-NK-DR-062-AMT",
+    "name": "Natural Green Amethyst Briolette Necklace",
+    "category": "necklace",
+    "materials": [
+      "Amethyst"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-062-amt-658bf086c146.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-063-amt",
+    "sku": "WL-NK-DR-063-AMT",
+    "name": "Natural Prasiolite Drop Necklace",
+    "category": "necklace",
+    "materials": [
+      "Prasiolite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-063-amt-05a7ab835477.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-063-amt-5d73f9081fd2.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-063-amt-ae56dacbdc02.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-063-amt-31fb13412db0.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-063-amt-e1841b98854c.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-063-amt-da9c75e2025b.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": true
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-065-avt",
+    "sku": "WL-NK-DR-065-AVT",
+    "name": "Green Aventurine Teardrop & Green Crystal Necklace",
+    "category": "necklace",
+    "materials": [
+      "Aventurine"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-065-avt-e858f1f5446c.webp",
+        "width": 1024,
+        "height": 1024,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-066-avt",
+    "sku": "WL-NK-DR-066-AVT",
+    "name": "Natural Green Aventurine Briolette & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Aventurine",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-066-avt-a815c870e164.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-066-avt-b03ff21c6125.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-066-avt-93addf83c6a6.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-067-car",
+    "sku": "WL-NK-DR-067-CAR",
+    "name": "Carnelian Briolette Waterfall Necklace",
+    "category": "necklace",
+    "materials": [
+      "Carnelian"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-067-car-20eccdf2e9e1.webp",
+        "width": 1124,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-070-how-v1",
+    "sku": "WL-NK-DR-070-HOW-V1",
+    "name": "Turquoise Howlite Drop Necklace",
+    "category": "necklace",
+    "materials": [
+      "Howlite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-070-how-v1-9f91e5dbfb1a.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-070-how-v1-a525ceb6dadc.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-070-how-v1-4df51cbbb5f4.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-070-how-v1-4a0164eff778.webp",
+        "width": 896,
+        "height": 1152,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-070-how-v1-291aaf251730.webp",
+        "width": 1000,
+        "height": 1500,
+        "isRender": true
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-070-how-v2",
+    "sku": "WL-NK-DR-070-HOW-V2",
+    "name": "Green Howlite Drop Necklace",
+    "category": "necklace",
+    "materials": [
+      "Howlite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-070-how-v2-6dcd7b6628ba.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-070-how-v2-665ab85da8c8.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-070-how-v2-ead4e78c1e1b.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-071-how",
+    "sku": "WL-NK-DR-071-HOW",
+    "name": "Natural White Howlite Stick & Gold Seed Necklace",
+    "category": "necklace",
+    "materials": [
+      "Howlite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-071-how-835e96e913ea.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-071-how-414d560eaade.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-072-iol",
+    "sku": "WL-NK-DR-072-IOL",
+    "name": "Natural Iolite Briolette Necklace",
+    "category": "necklace",
+    "materials": [
+      "Iolite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-072-iol-6bfb3d645dff.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-072-iol-45faa123d657.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-073-iol",
+    "sku": "WL-NK-DR-073-IOL",
+    "name": "Natural Iolite Cluster Briolette & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Iolite",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-073-iol-4cd8c5830bf2.webp",
+        "width": 1200,
+        "height": 670,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-073-iol-03ae85e85ac1.webp",
+        "width": 1200,
+        "height": 945,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-073-iol-2d86c5f399ad.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-073-iol-0779203579bc.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-073-iol-73dbcce58693.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-073-iol-15679d8c19dc.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-073-iol-3d11e233f345.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-074-lab",
+    "sku": "WL-NK-DR-074-LAB",
+    "name": "Labradorite Faceted Round Briolette Necklace",
+    "category": "necklace",
+    "materials": [
+      "Labradorite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-074-lab-14e5ca7ab5aa.webp",
+        "width": 1124,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-075-mns",
+    "sku": "WL-NK-DR-075-MNS",
+    "name": "Grey Moonstone Teardrop Necklace",
+    "category": "necklace",
+    "materials": [
+      "Moonstone"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-075-mns-ca0340a0da54.webp",
+        "width": 1200,
+        "height": 1489,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-076-mns",
+    "sku": "WL-NK-DR-076-MNS",
+    "name": "Mulit-colour - Moonstone Necklace",
+    "category": "necklace",
+    "materials": [
+      "Moonstone"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-076-mns-eaa80f947709.webp",
+        "width": 1124,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-076-mns-1f4506f8c0da.webp",
+        "width": 1123,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-076-mns-a38284114acc.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-077-mns",
+    "sku": "WL-NK-DR-077-MNS",
+    "name": "White Moonstone Dagger & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Moonstone",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-077-mns-dddee730c1f1.webp",
+        "width": 1125,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-079-qtz",
+    "sku": "WL-NK-DR-079-QTZ",
+    "name": "Natural Lemon Quartz Briolette & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl",
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-079-qtz-3f7fdf391b8f.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-080-qtz",
+    "sku": "WL-NK-DR-080-QTZ",
+    "name": "Natural Lemon Quartz Briolette Necklace",
+    "category": "necklace",
+    "materials": [
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-080-qtz-3e4eadab0c84.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-080-qtz-a93916f6889b.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-080-qtz-c8edbc4f7654.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-081-rut",
+    "sku": "WL-NK-DR-081-RUT",
+    "name": "Natural Black Rutilated Quartz Briolette & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl",
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-081-rut-80cf4624d14f.webp",
+        "width": 768,
+        "height": 1368,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-081-rut-4f2af0891627.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-081-rut-30c7998dd929.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-081-rut-0577c7094481.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-081-rut-e1d9304fdee6.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-081-rut-1def9ace8c9c.webp",
+        "width": 1200,
+        "height": 800,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-081-rut-e1afa9740bdd.webp",
+        "width": 1200,
+        "height": 960,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-081-rut-c3a37aee67c6.webp",
+        "width": 1000,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-081-rut-c5fbd99ae9b0.webp",
+        "width": 896,
+        "height": 1195,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-081-rut-3b6ea1f6a72b.webp",
+        "width": 1200,
+        "height": 670,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-082-rut",
+    "sku": "WL-NK-DR-082-RUT",
+    "name": "Natural Green Rutilated Quartz Briolette & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl",
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-082-rut-c699c08b83bb.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-082-rut-f91c778161b6.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-082-rut-b92b5bff12f0.webp",
+        "width": 1200,
+        "height": 675,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-083-trm",
+    "sku": "WL-NK-DR-083-TRM",
+    "name": "Graduated Multi-Colour Tourmaline Teardrop Fringe Necklace",
+    "category": "necklace",
+    "materials": [
+      "Tourmaline"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-083-trm-8b10e84dec5f.webp",
+        "width": 1024,
+        "height": 1024,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-083-trm-bf0c5deebf30.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-083-trm-b8b1de67edb2.webp",
+        "width": 585,
+        "height": 937,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-083-trm-b5a837254c81.webp",
+        "width": 848,
+        "height": 1264,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-083-trm-024c031c7e6a.webp",
+        "width": 768,
+        "height": 1365,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-083-trm-41684c275176.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-083-trm-ee549b302987.webp",
+        "width": 1000,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-083-trm-0c1ece49c8d9.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-dr-084-trm",
+    "sku": "WL-NK-DR-084-TRM",
+    "name": "Multi-Colour Tourmaline Spike & Stick Bead Necklace",
+    "category": "necklace",
+    "materials": [
+      "Tourmaline"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-dr-084-trm-a20ab08d3055.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-084-trm-184c0e2f358a.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-084-trm-1163de5089cc.webp",
+        "width": 580,
+        "height": 794,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-dr-084-trm-723f670cff22.webp",
+        "width": 590,
+        "height": 784,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-lf-145-iol-v2",
+    "sku": "WL-NK-LF-145-IOL-V2",
+    "name": "Iolite Leaf Briolette Necklace",
+    "category": "necklace",
+    "materials": [
+      "Iolite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-lf-145-iol-v2-dbb70fa1612f.webp",
+        "width": 1200,
+        "height": 1489,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-lf-145-lap-v3",
+    "sku": "WL-NK-LF-145-LAP-V3",
+    "name": "Lapis Lazuli Leaf Briolette & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Lapis Lazuli",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-lf-145-lap-v3-bf19202585f3.webp",
+        "width": 1200,
+        "height": 1489,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-lf-145-mns-v5",
+    "sku": "WL-NK-LF-145-MNS-V5",
+    "name": "White Moonstone Leaf Briolette Necklace",
+    "category": "necklace",
+    "materials": [
+      "Moonstone"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-lf-145-mns-v5-a094ecf19e60.webp",
+        "width": 1200,
+        "height": 1489,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-lf-145-qtz-v7",
+    "sku": "WL-NK-LF-145-QTZ-V7",
+    "name": "Snowy Quartz Faceted Marquise Necklace",
+    "category": "necklace",
+    "materials": [
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-lf-145-qtz-v7-de0ca755b045.webp",
+        "width": 896,
+        "height": 1195,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-lf-145-sun-v6",
+    "sku": "WL-NK-LF-145-SUN-V6",
+    "name": "Red Sunstone Leaf Briolette Necklace",
+    "category": "necklace",
+    "materials": [
+      "Sunstone"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-lf-145-sun-v6-c8066515b808.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-lf-146-aqm-v1",
+    "sku": "WL-NK-LF-146-AQM-V1",
+    "name": "Aquamarine Faceted Teardrop Feather-Pattern Strand Necklace",
+    "category": "necklace",
+    "materials": [
+      "Aquamarine"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-lf-146-aqm-v1-008578bf75e3.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-lf-146-aqm-v1-4b7e4108acb9.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-lf-146-qtz-v2",
+    "sku": "WL-NK-LF-146-QTZ-V2",
+    "name": "Ametrine Faceted Teardrop Feather-Pattern Strand Necklace",
+    "category": "necklace",
+    "materials": [
+      "Ametrine"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-lf-146-qtz-v2-f719107b3bfa.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-lf-146-qtz-v2-8bf69a2c725f.webp",
+        "width": 1200,
+        "height": 800,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-lf-146-qtz-v2-5ce2b489459f.webp",
+        "width": 1200,
+        "height": 670,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-lf-146-qtz-v2-a56799724a66.webp",
+        "width": 848,
+        "height": 1244,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-lf-146-rut-v3",
+    "sku": "WL-NK-LF-146-RUT-V3",
+    "name": "Green Rutilated Quartz Faceted Teardrop Feather-Pattern Strand Necklace",
+    "category": "necklace",
+    "materials": [
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-lf-146-rut-v3-079937fb0a6d.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-lf-146-rut-v3-ea59eadda88a.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-lf-146-rut-v5",
+    "sku": "WL-NK-LF-146-RUT-V5",
+    "name": "Green Rutilated Quartz Faceted Teardrop Necklace",
+    "category": "necklace",
+    "materials": [
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-lf-146-rut-v5-963711436043.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-lf-146-rut-v5-6be555b4da12.webp",
+        "width": 1200,
+        "height": 670,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-lf-146-rut-v5-e132cda1b7c3.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-lf-146-sun-v4",
+    "sku": "WL-NK-LF-146-SUN-V4",
+    "name": "Sunstone Faceted Teardrop Feather-Pattern Strand Necklace",
+    "category": "necklace",
+    "materials": [
+      "Sunstone"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-lf-146-sun-v4-9862b48b4137.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-lf-148-iol",
+    "sku": "WL-NK-LF-148-IOL",
+    "name": "Natural Iolite Marquise Necklace",
+    "category": "necklace",
+    "materials": [
+      "Iolite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-lf-148-iol-26b8e8f76b0d.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-lf-148-iol-9353f47adfc0.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-lf-148-iol-f0e9fce2a475.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-lf-148-iol-5d330c5f6875.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-lf-149-mns-v1",
+    "sku": "WL-NK-LF-149-MNS-V1",
+    "name": "Moonstone Marquise Drop & Silver Bead Necklace",
+    "category": "necklace",
+    "materials": [
+      "Moonstone"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-lf-149-mns-v1-db853486a825.webp",
+        "width": 1024,
+        "height": 1024,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-lf-149-mns-v1-e25e1e09f8b4.webp",
+        "width": 1200,
+        "height": 670,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-lf-149-mns-v1-51c0e55d56fb.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ms-161-agt",
+    "sku": "WL-NK-MS-161-AGT",
+    "name": "Tree Agate Double-Strand Chip & Pearl Necklace with Chunky Chain",
+    "category": "necklace",
+    "materials": [
+      "Agate",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ms-161-agt-5623a9d742b2.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-161-agt-675bc046c8df.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ms-163-amz",
+    "sku": "WL-NK-MS-163-AMZ",
+    "name": "Amazonite Beads Necklace (2-Strand)",
+    "category": "necklace",
+    "materials": [
+      "Amazonite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ms-163-amz-b1cb83f6a36c.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-163-amz-b6461fe1b745.webp",
+        "width": 1000,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-163-amz-82cdc6cf5bf8.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-163-amz-97d0c5a3a82b.webp",
+        "width": 900,
+        "height": 1162,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-163-amz-87706e714a53.webp",
+        "width": 840,
+        "height": 1144,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-163-amz-84ffc60da561.webp",
+        "width": 1200,
+        "height": 1141,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-163-amz-6bb47b58a0fe.webp",
+        "width": 452,
+        "height": 480,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-163-amz-8def95d61e02.webp",
+        "width": 1094,
+        "height": 1322,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-163-amz-8c1716f03ae4.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-163-amz-e7401f88d1f4.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-163-amz-c6f2f66542e9.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-163-amz-11226af4b964.webp",
+        "width": 864,
+        "height": 1184,
+        "isRender": true
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ms-165-iol",
+    "sku": "WL-NK-MS-165-IOL",
+    "name": "Natural Iolite Two-Strand Chip & Pavé Crystal Necklace",
+    "category": "necklace",
+    "materials": [
+      "Iolite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ms-165-iol-f48cf49ed910.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-165-iol-98ce1cd7a074.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-165-iol-35102eebaeb3.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-165-iol-39c4b8e44ecc.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-165-iol-d8416e3c52c9.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": true
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ms-166-mix",
+    "sku": "WL-NK-MS-166-MIX",
+    "name": "Strawberry Quartz, Pearl & Garnet Two-Strand Necklace",
+    "category": "necklace",
+    "materials": [
+      "Garnet",
+      "Pearl",
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ms-166-mix-7f1d9315041a.webp",
+        "width": 896,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-166-mix-c6e88c528789.webp",
+        "width": 896,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-166-mix-6c52a3be2b8a.webp",
+        "width": 1200,
+        "height": 685,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-166-mix-27aa46b9eb46.webp",
+        "width": 896,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-166-mix-f31d1f3e065f.webp",
+        "width": 896,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ms-167-per",
+    "sku": "WL-NK-MS-167-PER",
+    "name": "Peridot-Green Multi-Strand Layered Round Bead Necklace",
+    "category": "necklace",
+    "materials": [],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ms-167-per-37d3645df4eb.webp",
+        "width": 768,
+        "height": 1364,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-167-per-dae69dd9ab46.webp",
+        "width": 768,
+        "height": 1364,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-167-per-11c02a3c3c45.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-167-per-0782590867ef.webp",
+        "width": 896,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-167-per-df3e780a127d.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ms-168-prl",
+    "sku": "WL-NK-MS-168-PRL",
+    "name": "Mother of Pearl Triple Strand Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ms-168-prl-67c3c9d4a92d.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ms-168-prl-9cb950deff76.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ms-169-qtz",
+    "sku": "WL-NK-MS-169-QTZ",
+    "name": "Clear Quartz Two-Strand Chip & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl",
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ms-169-qtz-7a3659cd1af7.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ms-170-rqz",
+    "sku": "WL-NK-MS-170-RQZ",
+    "name": "Rose Quartz Two-Strand Chip & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl",
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ms-170-rqz-cea4887a356d.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ms-172-trm",
+    "sku": "WL-NK-MS-172-TRM",
+    "name": "Three-Strand Layered Bicolour Tourmaline Necklace",
+    "category": "necklace",
+    "materials": [
+      "Tourmaline"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ms-172-trm-3f0490db1a1e.webp",
+        "width": 768,
+        "height": 1344,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-nc-183-avt",
+    "sku": "WL-NK-NC-183-AVT",
+    "name": "Green Aventurine Cluster Necklace",
+    "category": "necklace",
+    "materials": [
+      "Aventurine"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-nc-183-avt-e8f387f44adb.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-nc-184-cit",
+    "sku": "WL-NK-NC-184-CIT",
+    "name": "Citrine Faceted Nugget Cluster Necklace",
+    "category": "necklace",
+    "materials": [
+      "Citrine"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-nc-184-cit-c30e7f4d7ced.webp",
+        "width": 1200,
+        "height": 800,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-nc-184-cit-4eaafaae013a.webp",
+        "width": 1200,
+        "height": 800,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-nc-186-iol",
+    "sku": "WL-NK-NC-186-IOL",
+    "name": "Iolite Tumbled Cluster Necklace",
+    "category": "necklace",
+    "materials": [
+      "Iolite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-nc-186-iol-1f28f7404cb8.webp",
+        "width": 1200,
+        "height": 1489,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-nc-187-qtz",
+    "sku": "WL-NK-NC-187-QTZ",
+    "name": "Cognac Quartz Nugget Cluster Necklace",
+    "category": "necklace",
+    "materials": [
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-nc-187-qtz-cfbd14ec594f.webp",
+        "width": 1200,
+        "height": 1489,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-nc-188-qtz",
+    "sku": "WL-NK-NC-188-QTZ",
+    "name": "Lemon Quartz Faceted Nugget Cluster Necklace",
+    "category": "necklace",
+    "materials": [
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-nc-188-qtz-c494a8033ced.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-nc-190-amt-v1",
+    "sku": "WL-NK-NC-190-AMT-V1",
+    "name": "Faceted Amethyst Nugget Cluster Necklace",
+    "category": "necklace",
+    "materials": [
+      "Amethyst"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-nc-190-amt-v1-c6a7acd58ac7.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-nc-190-amt-v1-fc6af0303c41.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-nc-190-amt-v1-422d07bc05db.webp",
+        "width": 1109,
+        "height": 944,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-nc-190-amt-v1-349b6f4f2033.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-nc-190-amt-v1-e93cb49e5670.webp",
+        "width": 1122,
+        "height": 1402,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-nc-190-rqz-v2",
+    "sku": "WL-NK-NC-190-RQZ-V2",
+    "name": "Rose Quartz Chunky Faceted Nugget Collar Necklace",
+    "category": "necklace",
+    "materials": [
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-nc-190-rqz-v2-9e072e43a948.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ps-173-car",
+    "sku": "WL-NK-PS-173-CAR",
+    "name": "Carnelian Petal & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Carnelian",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ps-173-car-b42d81555007.webp",
+        "width": 1200,
+        "height": 1489,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ps-175-prl",
+    "sku": "WL-NK-PS-175-PRL",
+    "name": "Grey Mother-of-Pearl Square Shell Tile Necklace with Silver Chain",
+    "category": "necklace",
+    "materials": [
+      "Pearl",
+      "Shell"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ps-175-prl-f68688f5005e.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-175-prl-1ac3100df9c5.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-175-prl-2039f84973fe.webp",
+        "width": 1032,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ps-176-prl-v1",
+    "sku": "WL-NK-PS-176-PRL-V1",
+    "name": "Mother of Pearl & Gilt Metal Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ps-176-prl-v1-2b6a627e2583.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ps-176-prl-v2",
+    "sku": "WL-NK-PS-176-PRL-V2",
+    "name": "Mother of Pearl Disc Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ps-176-prl-v2-996857f47036.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-176-prl-v2-d46f45dff612.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ps-176-prl-v3",
+    "sku": "WL-NK-PS-176-PRL-V3",
+    "name": "Mother-of-Pearl & Floral Silver Disc Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ps-176-prl-v3-ed325764b8af.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-176-prl-v3-84ed1005417c.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ps-178-prl",
+    "sku": "WL-NK-PS-178-PRL",
+    "name": "Natural Baroque Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ps-178-prl-09a27892aff4.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-178-prl-7e92569dcafb.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-178-prl-ab560cd70cec.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-178-prl-fc27e84886c8.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-178-prl-4a229c131125.webp",
+        "width": 992,
+        "height": 1056,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-178-prl-b334fe5e5b4b.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-178-prl-65bbb7b0fc78.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-178-prl-14ef3c1d81be.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-178-prl-b812914e5bbb.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-178-prl-58b1ce8f1f96.webp",
+        "width": 1200,
+        "height": 960,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ps-179-prl",
+    "sku": "WL-NK-PS-179-PRL",
+    "name": "Pale Blue with freshwater Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ps-179-prl-aa1af953dffa.webp",
+        "width": 1200,
+        "height": 799,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-179-prl-1f3682c80eab.webp",
+        "width": 1200,
+        "height": 800,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-179-prl-42c31e146a24.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-179-prl-90edbbcc00df.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ps-180-prl",
+    "sku": "WL-NK-PS-180-PRL",
+    "name": "Paua Shell & Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl",
+      "Shell"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ps-180-prl-2c3d4d2556ce.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-180-prl-17a413c407d3.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ps-181-cor",
+    "sku": "WL-NK-PS-181-COR",
+    "name": "Pink Coral & Pearl Swirl-Bead Necklace",
+    "category": "necklace",
+    "materials": [
+      "Coral",
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ps-181-cor-e97aed83c850.webp",
+        "width": 1000,
+        "height": 1500,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-181-cor-0e3271dd267d.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-181-cor-a8ee77ca5d23.webp",
+        "width": 1000,
+        "height": 1500,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-181-cor-b41ed951938d.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-181-cor-117e3d923542.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": true
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-ps-182-prl",
+    "sku": "WL-NK-PS-182-PRL",
+    "name": "Shell Pearl Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl",
+      "Shell"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-ps-182-prl-28b20c11c5fb.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-182-prl-3a22664b2ec6.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-182-prl-ae7eec04d356.webp",
+        "width": 919,
+        "height": 1152,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-182-prl-a5a965ffbd71.webp",
+        "width": 848,
+        "height": 1264,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-182-prl-61d7ae5bb7dc.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-182-prl-765544cfd29e.webp",
+        "width": 1000,
+        "height": 1500,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/wl-nk-ps-182-prl-21e774635073.webp",
+        "width": 848,
+        "height": 1264,
+        "isRender": true
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-pv-191-lab",
+    "sku": "WL-NK-PV-191-LAB",
+    "name": "Natural Labradorite & Pavé Necklace",
+    "category": "necklace",
+    "materials": [
+      "Labradorite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-pv-191-lab-b44e38330e5e.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-pv-192-spn",
+    "sku": "WL-NK-PV-192-SPN",
+    "name": "Black Spinel Graduated Rondelle & Pavé Necklace",
+    "category": "necklace",
+    "materials": [
+      "Spinel"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-pv-192-spn-f83b126f594e.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-pv-193-azu-v3",
+    "sku": "WL-NK-PV-193-AZU-V3",
+    "name": "Natural Azurite & Pavé Crystal Necklace",
+    "category": "necklace",
+    "materials": [
+      "Azurite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-pv-193-azu-v3-d2acd64e1c87.webp",
+        "width": 1200,
+        "height": 1490,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-pv-193-azu-v3-d60f198baeda.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-pv-193-azu-v3-5599f292eef9.webp",
+        "width": 842,
+        "height": 1264,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-pv-193-chr-v1",
+    "sku": "WL-NK-PV-193-CHR-V1",
+    "name": "Natural Charoite & Pavé Crystal Necklace",
+    "category": "necklace",
+    "materials": [
+      "Charoite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-pv-193-chr-v1-77d594f81b19.webp",
+        "width": 976,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-pv-193-chr-v1-4e1d870ef89c.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-pv-193-prl-v5",
+    "sku": "WL-NK-PV-193-PRL-V5",
+    "name": "Shell Pearl & Rose Gold Pavé Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl",
+      "Shell"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-pv-193-prl-v5-4a48150d50ff.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-pv-193-prl-v5-ee2f7a29ec6e.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-pv-193-prl-v5-bd060e3dd254.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": true
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-124-agt-v1",
+    "sku": "WL-NK-SC-124-AGT-V1",
+    "name": "Turqouise Blue Crackle Agate Slab Necklace",
+    "category": "necklace",
+    "materials": [
+      "Agate"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-124-agt-v1-64d68e59dcad.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-124-agt-v1-e1b52415cd46.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-124-agt-v1-7ad494ec66ce.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-125-agt",
+    "sku": "WL-NK-SC-125-AGT",
+    "name": "Natural Grey Agate Slab & Brown Agate Necklace",
+    "category": "necklace",
+    "materials": [
+      "Agate"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-125-agt-0a0f1f903e46.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-125-agt-b3c6a475c302.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-126-avt",
+    "sku": "WL-NK-SC-126-AVT",
+    "name": "Green Aventurine Fan-Collar Necklace",
+    "category": "necklace",
+    "materials": [
+      "Aventurine"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-126-avt-e97ad7933b4e.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-126-avt-c5b75bcd36f0.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-127-cal",
+    "sku": "WL-NK-SC-127-CAL",
+    "name": "Natural Yellow Calcite Slab Necklace",
+    "category": "necklace",
+    "materials": [
+      "Calcite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-127-cal-bcd39ff443e8.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-127-cal-1298313fc4d4.webp",
+        "width": 1200,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-127-cal-7aa2e3d614aa.webp",
+        "width": 1002,
+        "height": 1500,
+        "isRender": true
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-128-cor",
+    "sku": "WL-NK-SC-128-COR",
+    "name": "Cream Coral Spike Necklace",
+    "category": "necklace",
+    "materials": [
+      "Coral"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-128-cor-c4e4a5e94700.webp",
+        "width": 1200,
+        "height": 670,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-130-iol",
+    "sku": "WL-NK-SC-130-IOL",
+    "name": "Iolite Multi-Strand Tassel Necklace",
+    "category": "necklace",
+    "materials": [
+      "Iolite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-130-iol-f097aea7d1d0.webp",
+        "width": 1200,
+        "height": 1489,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-131-lab",
+    "sku": "WL-NK-SC-131-LAB",
+    "name": "Grey-to-Smoky Labradorite Fan-Collar Necklace",
+    "category": "necklace",
+    "materials": [
+      "Labradorite"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-131-lab-fff3cf468125.webp",
+        "width": 654,
+        "height": 954,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-132-lap",
+    "sku": "WL-NK-SC-132-LAP",
+    "name": "Lapis Lazuli Fan-Collar Necklace",
+    "category": "necklace",
+    "materials": [
+      "Lapis Lazuli"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-132-lap-0f1c6e2c62cb.webp",
+        "width": 1000,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-132-lap-214091b7aa4e.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-132-lap-66f84eacf295.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-132-lap-cc961c6080a4.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-133-met-v1",
+    "sku": "WL-NK-SC-133-MET-V1",
+    "name": "Silver Swirled Teardrop Necklace",
+    "category": "necklace",
+    "materials": [],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-133-met-v1-1f162c1141ef.webp",
+        "width": 1200,
+        "height": 655,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-133-met-v2",
+    "sku": "WL-NK-SC-133-MET-V2",
+    "name": "Ribbed Silver Sphere & Stardust Bead Necklace",
+    "category": "necklace",
+    "materials": [],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-133-met-v2-b3d6592d9c37.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-133-met-v2-d6f768b23cff.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-135-mix",
+    "sku": "WL-NK-SC-135-MIX",
+    "name": "Carnelian & Black Onyx Necklace",
+    "category": "necklace",
+    "materials": [
+      "Carnelian",
+      "Onyx"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-135-mix-69f4e2b18364.webp",
+        "width": 1120,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-135-mix-097aa9bf970d.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-135-mix-9266b10d23e6.webp",
+        "width": 960,
+        "height": 1119,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-136-obs",
+    "sku": "WL-NK-SC-136-OBS",
+    "name": "Black Obsidian Graduated Necklace",
+    "category": "necklace",
+    "materials": [
+      "Obsidian"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-136-obs-237034b6ff0e.webp",
+        "width": 924,
+        "height": 1300,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-136-obs-1dc15958d7c3.webp",
+        "width": 684,
+        "height": 1038,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-136-obs-e44dc38eed92.webp",
+        "width": 900,
+        "height": 1328,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-137-obs",
+    "sku": "WL-NK-SC-137-OBS",
+    "name": "Golden Sheen Obsidian Necklace",
+    "category": "necklace",
+    "materials": [
+      "Obsidian"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-137-obs-a0a74cee6e6b.webp",
+        "width": 724,
+        "height": 1020,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-137-obs-fb7850fb70b3.webp",
+        "width": 768,
+        "height": 1084,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-138-opl",
+    "sku": "WL-NK-SC-138-OPL",
+    "name": "Peach Opal Fan-Collar Necklace",
+    "category": "necklace",
+    "materials": [
+      "Opal"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-138-opl-864dd2b90f8c.webp",
+        "width": 768,
+        "height": 1368,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-140-prl",
+    "sku": "WL-NK-SC-140-PRL",
+    "name": "Mauve Baroque Pearl Cluster Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-140-prl-448a465540d5.webp",
+        "width": 1200,
+        "height": 1489,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-141-prl",
+    "sku": "WL-NK-SC-141-PRL",
+    "name": "Multi-Strand Pearl Tassel Bib Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-141-prl-ba9859ae2170.webp",
+        "width": 1200,
+        "height": 1489,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-142-prl",
+    "sku": "WL-NK-SC-142-PRL",
+    "name": "Peach Baroque Pearl Cluster Necklace",
+    "category": "necklace",
+    "materials": [
+      "Pearl"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-142-prl-0b9c354fe7cd.webp",
+        "width": 1124,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-144-rqz",
+    "sku": "WL-NK-SC-144-RQZ",
+    "name": "Natural Rose Quartz Slab Necklace",
+    "category": "necklace",
+    "materials": [
+      "Quartz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-144-rqz-9ebead48888c.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-144-rqz-db3511e4297f.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-144-rqz-203b8fc157bb.webp",
+        "width": 1000,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-144-rqz-d71c4d0d1f0d.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-144-rqz-db7cafb3c152.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sc-144-rqz-78358bbfee5f.webp",
+        "width": 1006,
+        "height": 1500,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sc-195-tpz",
+    "sku": "WL-NK-SC-195-TPZ",
+    "name": "Sky Blue Topaz Briolette Cluster Necklace",
+    "category": "necklace",
+    "materials": [
+      "Topaz"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sc-195-tpz-5de5532f6eb4.webp",
+        "width": 1200,
+        "height": 1489,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "wl-nk-sh-174-mix",
+    "sku": "WL-NK-SH-174-MIX",
+    "name": "Spiral Shell & White Coral Branch Necklace",
+    "category": "necklace",
+    "materials": [
+      "Coral",
+      "Shell"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/wl-nk-sh-174-mix-cbe2ad0f6949.webp",
+        "width": 1200,
+        "height": 670,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sh-174-mix-eed4e66bafe3.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/wl-nk-sh-174-mix-a069475db83e.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "piece-df9559bee2",
+    "sku": null,
+    "name": "Pink opal",
+    "category": "necklace",
+    "materials": [
+      "Opal"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/piece-df9559bee2-db0ae1fdf92d.webp",
+        "width": 1200,
+        "height": 670,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "piece-01ff4d9446",
+    "sku": null,
+    "name": "Small Beaded necklace",
+    "category": "necklace",
+    "materials": [],
+    "images": [
+      {
+        "src": "/assets/products/piece-01ff4d9446-494d4e1f5d5c.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/piece-01ff4d9446-804c3e24e7c8.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/piece-01ff4d9446-3752ed2968e8.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/piece-01ff4d9446-d13f90c7cdb5.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/piece-01ff4d9446-4d98d87e21d0.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/piece-01ff4d9446-d91d96e24522.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "piece-2035cb1879",
+    "sku": null,
+    "name": "Small tire beaded necklace",
+    "category": "necklace",
+    "materials": [],
+    "images": [
+      {
+        "src": "/assets/products/piece-2035cb1879-89c7a29e6b91.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/piece-2035cb1879-03c79241fbd8.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/piece-2035cb1879-611b55b23264.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/piece-2035cb1879-2b28b651758a.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/piece-2035cb1879-47c1e58afb19.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "piece-c09e79bf40",
+    "sku": null,
+    "name": "Tourmaline",
+    "category": "necklace",
+    "materials": [
+      "Tourmaline"
+    ],
+    "images": [
+      {
+        "src": "/assets/products/piece-c09e79bf40-dbcb089251f0.webp",
+        "width": 1008,
+        "height": 1046,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/piece-c09e79bf40-a06177254084.webp",
+        "width": 1200,
+        "height": 675,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/piece-c09e79bf40-25c705e1a7c7.webp",
+        "width": 1200,
+        "height": 670,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/piece-c09e79bf40-825f37c1e2d8.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": true
+      },
+      {
+        "src": "/assets/products/piece-c09e79bf40-54698458f2a3.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": true
+      }
+    ]
+  },
+  {
+    "id": "piece-ab62021daa",
+    "sku": null,
+    "name": "uncut",
+    "category": "necklace",
+    "materials": [],
+    "images": [
+      {
+        "src": "/assets/products/piece-ab62021daa-d9234f082676.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      },
+      {
+        "src": "/assets/products/piece-ab62021daa-86ff98a8a4e1.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  },
+  {
+    "id": "piece-06e1cc65d4",
+    "sku": null,
+    "name": "uncut blue necklace",
+    "category": "necklace",
+    "materials": [],
+    "images": [
+      {
+        "src": "/assets/products/piece-06e1cc65d4-857baf853eaf.webp",
+        "width": 928,
+        "height": 1152,
+        "isRender": false
+      }
+    ]
+  }
+]
